@@ -1,0 +1,12 @@
+default profile
+
+cards now save profile that opened them
+
+cards now save time opened
+
+cards now display info
+
+
+
+Add easter egg:
+if your profile email is prakashes email, and his username is Prakash, pfp gets set to a picture of prakash and all cards are now prakash image.
